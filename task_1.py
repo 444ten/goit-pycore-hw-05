@@ -20,5 +20,8 @@ def caching_fibonacci():
 
 # fib = caching_fibonacci()
 
+# print(fib(-5))  #   0
+# print(fib( 0))  #   0
+# print(fib( 1))  #   1
 # print(fib(10))  #  55
 # print(fib(15))  # 610
